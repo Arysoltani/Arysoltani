@@ -1,5 +1,10 @@
 ### Hey there I am Aryan👋
 
+I'm currently pursuing a Master of Science in Computer Engineering, specializing in Artificial Intelligence, at Amirkabir University of Technology.
+
+I'm passionate about Artificial Intelligence and Machine Learning, particularly their theoretical foundations and applications in biology, including Medical AI and Bioinformatics. I also have research experience in these fields.
+
+🌐 Personal Website: arysoltani.github.io
 
 <!--
 **Arysoltani/Arysoltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
